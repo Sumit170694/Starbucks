@@ -49,8 +49,8 @@ This project presents an interactive **Power BI dashboard** that analyzes sales 
 
 > 📷 You can add your dashboard screenshots here (Home, Overview, Product, Modes)
 
-![Overview Page](./images/overview.png)  
-![Product Drillthrough](./images/product.png)
+![Overview Page](overview.png)  
+![Product Drillthrough](product.png)
 
 ---
 
